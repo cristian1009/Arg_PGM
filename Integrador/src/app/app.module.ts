@@ -9,6 +9,7 @@ import { EducacionComponent } from './components/educacion/educacion.component';
 import { ExperienciaLaboralComponent } from './components/experiencia-laboral/experiencia-laboral.component';
 import { HysComponent } from './components/hys/hys.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { HeaderComponent } from './components/header/header.component';
 
 
 
@@ -21,6 +22,7 @@ import { FooterComponent } from './components/footer/footer.component';
     ExperienciaLaboralComponent,
     HysComponent,
     FooterComponent,
+    HeaderComponent,
 
   ],
   imports: [
