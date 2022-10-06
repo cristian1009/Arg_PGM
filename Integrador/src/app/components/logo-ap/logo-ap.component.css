@@ -1,3 +1,20 @@
+.container
+    {
+        display: flex;
+        justify-content: space-between;
+        align-content: center;
+        align-items: center;
+    }
+.redes{margin-right: 0.5em;
+
+}
+
 #LogoAP{
     width: 150px;
+}
+img{
+    width: 60px;
+}
+.btn{
+    border-width: medium;
 }
